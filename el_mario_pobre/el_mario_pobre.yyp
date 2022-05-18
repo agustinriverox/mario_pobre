@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_playier_walkdr","path":"sprites/spr_playier_walkdr/spr_playier_walkdr.yy",},"order":2,},
     {"id":{"name":"spr_playier_walkr","path":"sprites/spr_playier_walkr/spr_playier_walkr.yy",},"order":4,},
+    {"id":{"name":"scr_playier_move","path":"scripts/scr_playier_move/scr_playier_move.yy",},"order":0,},
     {"id":{"name":"spr_playier_walku","path":"sprites/spr_playier_walku/spr_playier_walku.yy",},"order":5,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":1,},
@@ -83,6 +84,7 @@
     {"folderPath":"folders/Sprites/player.yy","order":6,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/player/idle.yy","order":1,"resourceVersion":"1.0","name":"idle","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/player/walk.yy","order":2,"resourceVersion":"1.0","name":"walk","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/playier.yy","order":1,"resourceVersion":"1.0","name":"playier","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
