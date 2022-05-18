@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_playier_idled",
-    "path": "sprites/spr_playier_idled/spr_playier_idled.yy",
+    "name": "spr_player_idle_d",
+    "path": "sprites/spr_player_idle_d/spr_player_idle_d.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_playier",
+  "name": "Obj_playier",
   "tags": [],
   "resourceType": "GMObject",
 }
