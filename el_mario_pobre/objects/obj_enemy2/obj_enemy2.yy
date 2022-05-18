@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_enemy02",
-    "path": "sprites/spr_enemy02/spr_enemy02.yy",
+    "name": "spr_enemy",
+    "path": "sprites/spr_enemy/spr_enemy.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy",
+  "name": "obj_enemy2",
   "tags": [],
   "resourceType": "GMObject",
 }
