@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_bullet",
-    "path": "sprites/spr_bullet/spr_bullet.yy",
+    "name": "spr_bullet2",
+    "path": "sprites/spr_bullet2/spr_bullet2.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bullet",
+  "name": "obj_bullet2",
   "tags": [],
   "resourceType": "GMObject",
 }
